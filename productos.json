@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "articulo":"aviator",
+        "marca":"rayban",
+        "categoria":"sol",
+        "precio":12000,
+        "imagen":"./img/raybanAviator.jpg"
+    },
+    {
+        "id":2,
+        "articulo":"wayfarer",
+        "marca":"rayban",
+        "categoria":"sol",
+        "precio":14000,
+        "imagen":"./img/wayfarer.jpg"
+    },
+    {
+        "id":3,
+        "articulo":"origins",
+        "marca":"police",
+        "categoria":"sol",
+        "precio":18000,
+        "imagen":"./img/policeSol.jpeg"
+    },
+    {
+        "id":4, 
+        "articulo":"classic",
+        "marca":"police",
+        "categoria":"sol",
+        "precio":13000,
+        "imagen":"./img/police23.webp"
+    },
+    {
+        "id":5,
+        "articulo":"uxmal",
+        "marca":"orbital",
+        "categoria":"vista",
+        "precio":12000,
+        "imagen":"./img/orbitalVista.png"
+    },
+    {
+        "id":6,
+        "articulo":"coby",
+        "marca":"infinit",
+        "categoria":"vista",
+        "precio":22000,
+        "imagen":"./img/infinitVista.webp "
+    },
+    {
+        "id":7,
+        "articulo":"race",
+        "marca":"vulk",
+        "categoria":"vista",
+        "precio":9000,
+        "imagen":"./img/vulkVista.jpeg"
+    },
+    {
+        "id":8,
+        "articulo":"torico",
+        "marca":"bausch",
+        "categoria":"lente de contacto",
+        "precio":6000,
+        "imagen":"./img/contacto1.jpg"
+    },
+    {
+        "id":9,
+        "articulo":"descartable",
+        "marca":"bausch",
+        "categoria":"lente de contacto",
+        "precio":3000,
+        "imagen":"./img/contacto2.jpg"
+    }
+
+]
+

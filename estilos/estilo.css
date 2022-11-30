@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: rgba(245, 241, 245, 0.829);
+}
+#contenedorCards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.cards img{
+    width: 200px;
+}
